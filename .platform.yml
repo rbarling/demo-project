@@ -1,6 +1,6 @@
 php_settings:
   version: 7.3
   http:
-     session.gc_maxlifetime: "7200"
+     gc_maxlifetime: "7200"
   cli:
-     session.gc_maxlifetime: "7200"
+     gc_maxlifetime: "7200"
